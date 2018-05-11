@@ -1,0 +1,29 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: #000;
+}
+
+.jumbotron {
+    background-image: url("../images/R&Ttrain.png");
+    background-size: contain;
+}
+
+#train-table {
+    background-color: #777;
+    border-radius: 15px;
+}
+
+h3 {
+    background-color: white;
+}
+
+strong {
+    background-color: white;
+    color: black;
+}
+
+
+
+h1 {
+    color: rgb(253, 251, 251);
+}
